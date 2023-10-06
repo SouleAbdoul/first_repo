@@ -2,5 +2,3 @@ hello. git
 i just added this file.
 This is second change.
 This is the third change
-This is the fourth branch
-Hello world
