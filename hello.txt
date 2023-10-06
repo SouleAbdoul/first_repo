@@ -2,3 +2,5 @@ hello. git
 i just added this file.
 This is second change.
 This is the third change
+Today what we have done is learn how to make a git request and 
+a git push. Also we have learned how to do a git merge.
