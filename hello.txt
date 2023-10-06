@@ -1,2 +1,3 @@
 hello. git 
 i just added this file.
+This is second change.
